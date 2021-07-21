@@ -1,0 +1,28 @@
+{
+  "name": "libmetal",
+  "description": "libmetal is the OS abstraction of open-amp",
+  "description_zh": "",  
+  "enable": "PKG_USING_LIBMETAL", 
+  "keywords": [
+    "libmetal"
+  ],
+  "category": "system",
+  "author": {
+    "name": "bjzhang",
+    "email": "bamv2005@gmail.com",
+    "github": "bjzhang"
+  },
+  "license": "BSD",
+  "repository": "https://github.com/bjzhang/libmetal",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "site": [
+    {
+      "version": "latest",
+      "URL": "https://github.com/bjzhang/libmetal.git",
+      "filename": "Null for git package",
+      "VER_SHA": "rv64-openamp-port"
+    }
+  ]
+}

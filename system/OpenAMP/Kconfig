@@ -1,0 +1,7 @@
+menu "OpenAMP: AMP solution for rt-thread"
+
+source "$PKGS_DIR/packages/system/OpenAMP/libmetal/Kconfig"
+source "$PKGS_DIR/packages/system/OpenAMP/openampnew/Kconfig"
+
+endmenu
+

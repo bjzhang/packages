@@ -1,0 +1,28 @@
+{
+  "name": "openampnew",
+  "description": "AMP framework for Linux and RTOS",
+  "description_zh": "",  
+  "enable": "PKG_USING_OPENAMP", 
+  "keywords": [
+    "openamp"
+  ],
+  "category": "system",
+  "author": {
+    "name": "bjzhang",
+    "email": "bamv2005@gmail.com",
+    "github": "bjzhang"
+  },
+  "license": "BSD",
+  "repository": "https://github.com/bjzhang/open-amp",
+  "icon": "unknown",
+  "homepage": "unknown",
+  "doc": "unknown",
+  "site": [
+    {
+      "version": "latest",
+      "URL": "https://github.com/bjzhang/open-amp.git",
+      "filename": "Null for git package",
+      "VER_SHA": "rv64-openamp-port"
+    }
+  ]
+}
